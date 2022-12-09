@@ -22,9 +22,9 @@
   "homepage": "https://bitbucket.org/provenlogic/erc-token-node#readme",
   "dependencies": {
     "bcrypt": "^3.0.2",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "dotenv": "^5.0.1",
-    "express": "^4.16.3",
+    "express": "^4.18.2",
     "koa": "^2.5.1",
     "koa-router": "^7.4.0",
     "moment": "^2.22.2",
